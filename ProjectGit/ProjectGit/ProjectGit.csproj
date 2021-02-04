@@ -5,4 +5,14 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="Ch3_Case_Problem1\GreenvilleRevenueGUI\GreenvilleRevenueGUI.sln" />
+    <None Include="Ch3_Case_Problem1\GreenvilleRevenueGUI\GreenvilleRevenueGUI\GreenvilleRevenueGUI.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Ch3_Case_Problem1\GreenvilleRevenueGUI\.vs\GreenvilleRevenueGUI\v16\" />
+    <Folder Include="Ch3_Case_Problem1\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\TempPE\" />
+  </ItemGroup>
+
 </Project>
